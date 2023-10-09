@@ -18,7 +18,7 @@ n = int(input())
 palabras = input().split()
 
 # Llama a la función de ordenar selección
-ordenar_seleccion(palabras)
+ordenar_seleccion(palabras)   
 
 # Imprime la lista ordenada
 for palabra in palabras:
